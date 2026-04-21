@@ -1,0 +1,794 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - link "Muutke küpsiste eelistusi" [ref=e3] [cursor=pointer]:
+    - /url: javascript:void(0);
+    - img "Muutke küpsiste eelistusi" [ref=e4]
+  - generic [ref=e5]:
+    - banner [ref=e6]:
+      - generic [ref=e8]:
+        - generic [ref=e9]:
+          - generic:
+            - list:
+              - listitem [ref=e10]:
+                - link "Bestsellerid" [ref=e11] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/cgi-bin/shop/bestsellerid
+              - listitem [ref=e12]:
+                - link "E-platvormid" [ref=e13] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/cgi-bin/shop/e-platvormid
+              - listitem [ref=e14]:
+                - link "Kinkekaardid" [ref=e15] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/cgi-bin/shop/giftcertslist.html?id=8jaFw37Z
+              - listitem [ref=e16]:
+                - link "Kohe saadaval" [ref=e17] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/cgi-bin/shop/instock.html?id=8jaFw37Z
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - strong [ref=e20]: Tasuta saatmine!
+              - text: "| Klienditugi: 7440010 (E-R 10-18)"
+            - generic [ref=e21]:
+              - link "Abi" [ref=e22] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/kasutajatugi-abi-ja-info
+              - text: "|"
+              - link "Registreeri" [ref=e23] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/new_account.html?id=8jaFw37Z
+              - text: "|"
+              - link "Logi sisse" [ref=e24] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/login.html?id=8jaFw37Z
+            - list [ref=e26]:
+              - listitem [ref=e27]:
+                - link "EST " [ref=e28] [cursor=pointer]:
+                  - /url: javascript:void(0);
+                  - text: EST
+                  - generic [ref=e29]: 
+        - generic [ref=e31]:
+          - link "K" [ref=e32] [cursor=pointer]:
+            - /url: https://www.kriso.ee/cgi-bin/shop/index.html?id=8jaFw37Z
+            - img [ref=e33]
+            - generic [ref=e35]: K
+          - generic [ref=e36]:
+            - list [ref=e37]:
+              - listitem [ref=e38]:
+                - generic [ref=e39]:
+                  - text: Ingliskeelsed raamatud
+                  - generic: 
+                - combobox [ref=e40] [cursor=pointer]:
+                  - option "Ingliskeelsed raamatud" [selected]
+                  - option "Saksakeelsed raamatud"
+                  - option "Venekeelsed raamatud"
+                  - option "Eestikeelsed raamatud"
+                  - option "Eestikeelsed e-raamatud"
+                  - option "Ingliskeelsed e-raamatud"
+                  - option "Keeleõppe materjalid"
+                  - option "Muusikaraamatud ja noodid"
+              - listitem [ref=e41]:
+                - textbox "Pealkiri, autor, ISBN, märksõna" [ref=e42]
+              - listitem [ref=e43]:
+                - generic [ref=e44]:
+                  - generic [ref=e45]: 
+                  - button "Search" [ref=e46] [cursor=pointer]
+            - link "Täpsem otsing" [ref=e47] [cursor=pointer]:
+              - /url: https://www.kriso.ee/cgi-bin/shop/advancedsearch.html?id=8jaFw37Z
+          - generic [ref=e48]:
+            - list:
+              - listitem [ref=e49]:
+                - text: ( H  ( ( (
+                - link " Ostukorv" [ref=e50] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/cgi-bin/shop/ord/basket.html?id=8jaFw37Z
+              - listitem [ref=e51]:
+                - link "U Soovinimekiri" [ref=e52] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/cgi-bin/shop/wishlist.html?id=8jaFw37Z
+              - listitem [ref=e53]:
+                - link " Teie konto" [ref=e54] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/cgi-bin/shop/customerservice.html?id=8jaFw37Z
+        - navigation [ref=e56]:
+          - generic [ref=e57]:
+            - link "Kategooriad " [ref=e58] [cursor=pointer]:
+              - /url: javascript:void(0);
+              - text: Kategooriad
+              - generic [ref=e59]: 
+            - text:                    
+          - list [ref=e60]:
+            - listitem [ref=e61]:
+              - link "Raamatud" [ref=e62] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e63]:
+              - link "E-raamatud" [ref=e64] [cursor=pointer]:
+                - /url: javascript:void(0);
+            - listitem [ref=e65]:
+              - link "Muusikaraamatud ja noodid" [ref=e66] [cursor=pointer]:
+                - /url: https://www.kriso.ee/muusika-ja-noodid.html
+            - listitem [ref=e67]:
+              - link "Keeleõppe materjalid" [ref=e68] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/elt-raamatud
+            - listitem [ref=e69]:
+              - link "Eripakkumised" [ref=e70] [cursor=pointer]:
+                - /url: https://www.kriso.ee/sooduspakkumised.html
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - heading "Soovitame Toimetaja valik" [level=2] [ref=e74]:
+          - generic [ref=e75]:
+            - text: Soovitame
+            - generic [ref=e76]: Toimetaja valik
+        - generic [ref=e77]:
+          - list [ref=e79]:
+            - listitem [ref=e80]:
+              - generic [ref=e82]:
+                - generic [ref=e83]:
+                  - list [ref=e85]:
+                    - listitem [ref=e86]:
+                      - heading "Yesteryear" [level=3] [ref=e87]:
+                        - link "Yesteryear" [ref=e88] [cursor=pointer]:
+                          - /url: https://www.kriso.ee/yesteryear-db-9780008742768.html?utm_source=kriso&utm_medium=scroller&id=8jaFw37Z&utm_campaign=ifeatured
+                  - list [ref=e90]:
+                    - listitem [ref=e91]:
+                      - generic [ref=e92]: 20,75 €
+                - link "-20% Yesteryear" [ref=e95] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/yesteryear-db-9780008742768.html?utm_source=kriso&utm_medium=scroller&id=8jaFw37Z&utm_campaign=ifeatured
+                  - text: "-20%"
+                  - img "Yesteryear" [ref=e96]
+            - listitem [ref=e99]:
+              - generic [ref=e101]:
+                - generic [ref=e102]:
+                  - list [ref=e104]:
+                    - listitem [ref=e105]:
+                      - 'heading "You Are Not Alone: Michael, Through a Brothers Eyes New ..." [level=3] [ref=e106]':
+                        - 'link "You Are Not Alone: Michael, Through a Brothers Eyes New ..." [ref=e107] [cursor=pointer]':
+                          - /url: https://www.kriso.ee/you-alone-michael-through-brothers-eyes-db-9780008830663.html?id=8jaFw37Z&utm_campaign=ifeatured&utm_medium=scroller&utm_source=kriso
+                  - list [ref=e109]:
+                    - listitem [ref=e110]:
+                      - generic [ref=e111]: 16,43 €
+                - 'link "-20% You Are Not Alone: Michael, Through a Brothers Eyes New edition" [ref=e114] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/you-alone-michael-through-brothers-eyes-db-9780008830663.html?id=8jaFw37Z&utm_campaign=ifeatured&utm_medium=scroller&utm_source=kriso
+                  - text: "-20%"
+                  - 'img "You Are Not Alone: Michael, Through a Brothers Eyes New edition" [ref=e115]'
+            - listitem [ref=e118]:
+              - generic [ref=e120]:
+                - generic [ref=e121]:
+                  - list [ref=e123]:
+                    - listitem [ref=e124]:
+                      - heading "Elutööraamat. Anu Raud" [level=3] [ref=e125]:
+                        - link "Elutööraamat. Anu Raud" [ref=e126] [cursor=pointer]:
+                          - /url: https://www.kriso.ee/elutooraamat-anu-raud-db-9789916718384.html?utm_source=kriso&utm_campaign=ifeatured&id=8jaFw37Z&utm_medium=scroller
+                  - list [ref=e128]:
+                    - listitem [ref=e129]:
+                      - generic [ref=e130]: 105,00 €
+                - link "Elutööraamat. Anu Raud" [ref=e133] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/elutooraamat-anu-raud-db-9789916718384.html?utm_source=kriso&utm_campaign=ifeatured&id=8jaFw37Z&utm_medium=scroller
+                  - img "Elutööraamat. Anu Raud" [ref=e134]
+            - listitem [ref=e137]:
+              - generic [ref=e139]:
+                - generic [ref=e140]:
+                  - list [ref=e142]:
+                    - listitem [ref=e143]:
+                      - 'heading "World Classics Library: Friedrich Nietzsche: Thus Spake ..." [level=3] [ref=e144]':
+                        - 'link "World Classics Library: Friedrich Nietzsche: Thus Spake ..." [ref=e145] [cursor=pointer]':
+                          - /url: https://www.kriso.ee/world-classics-library-friedrich-nietzsche-thus-db-9781398860681.html?utm_source=kriso&utm_medium=scroller&id=8jaFw37Z&utm_campaign=ifeatured
+                  - list [ref=e147]:
+                    - listitem [ref=e148]:
+                      - generic [ref=e149]: 23,83 €
+                - 'link "-20% World Classics Library: Friedrich Nietzsche: Thus Spake Zarathustra, Ecce Homo, Beyond Good and Evil" [ref=e152] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/world-classics-library-friedrich-nietzsche-thus-db-9781398860681.html?utm_source=kriso&utm_medium=scroller&id=8jaFw37Z&utm_campaign=ifeatured
+                  - text: "-20%"
+                  - 'img "World Classics Library: Friedrich Nietzsche: Thus Spake Zarathustra, Ecce Homo, Beyond Good and Evil" [ref=e153]'
+                - text: Laos
+            - listitem [ref=e156]:
+              - generic [ref=e158]:
+                - generic [ref=e159]:
+                  - list [ref=e161]:
+                    - listitem [ref=e162]:
+                      - 'heading "Unlocking the Success Puzzle: Ten Practical Rules to ..." [level=3] [ref=e163]':
+                        - 'link "Unlocking the Success Puzzle: Ten Practical Rules to ..." [ref=e164] [cursor=pointer]':
+                          - /url: https://www.kriso.ee/unlocking-success-puzzle-ten-practical-rules-db-9781785356506.html?id=8jaFw37Z&utm_campaign=ifeatured&utm_medium=scroller&utm_source=kriso
+                  - list [ref=e166]:
+                    - listitem [ref=e167]:
+                      - generic [ref=e168]: 16,27 €
+                - 'link "-21% Unlocking the Success Puzzle: Ten Practical Rules to Achieve Your Goals" [ref=e171] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/unlocking-success-puzzle-ten-practical-rules-db-9781785356506.html?id=8jaFw37Z&utm_campaign=ifeatured&utm_medium=scroller&utm_source=kriso
+                  - text: "-21%"
+                  - 'img "Unlocking the Success Puzzle: Ten Practical Rules to Achieve Your Goals" [ref=e172]'
+                - text: Laos
+            - listitem [ref=e175]:
+              - generic [ref=e177]:
+                - generic [ref=e178]:
+                  - list [ref=e180]:
+                    - listitem [ref=e181]:
+                      - 'heading "Celebrity Service Secret Sauce: The magic ingredient of ..." [level=3] [ref=e182]':
+                        - 'link "Celebrity Service Secret Sauce: The magic ingredient of ..." [ref=e183] [cursor=pointer]':
+                          - /url: https://www.kriso.ee/celebrity-service-secret-sauce-magic-ingredient-db-9781917490184.html?utm_medium=scroller&utm_campaign=ifeatured&id=8jaFw37Z&utm_source=kriso
+                  - list [ref=e185]:
+                    - listitem [ref=e186]:
+                      - generic [ref=e187]: 20,59 €
+                - 'link "-20% Celebrity Service Secret Sauce: The magic ingredient of outstanding customer and team experiences" [ref=e190] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/celebrity-service-secret-sauce-magic-ingredient-db-9781917490184.html?utm_medium=scroller&utm_campaign=ifeatured&id=8jaFw37Z&utm_source=kriso
+                  - text: "-20%"
+                  - 'img "Celebrity Service Secret Sauce: The magic ingredient of outstanding customer and team experiences" [ref=e191]'
+                - text: Laos
+            - listitem [ref=e194]:
+              - generic [ref=e196]:
+                - generic [ref=e197]:
+                  - list [ref=e199]:
+                    - listitem [ref=e200]:
+                      - heading "South" [level=3] [ref=e201]:
+                        - link "South" [ref=e202] [cursor=pointer]:
+                          - /url: https://www.kriso.ee/south-db-9780008637644.html?utm_source=kriso&utm_medium=scroller&id=8jaFw37Z&utm_campaign=ifeatured
+                  - list [ref=e204]:
+                    - listitem [ref=e205]:
+                      - generic [ref=e206]: 11,40 €
+                - generic [ref=e207]:
+                  - link "-31% South" [ref=e209] [cursor=pointer]:
+                    - /url: https://www.kriso.ee/south-db-9780008637644.html?utm_source=kriso&utm_medium=scroller&id=8jaFw37Z&utm_campaign=ifeatured
+                    - text: "-31%"
+                    - img "South" [ref=e210]
+                  - generic [ref=e213]:
+                    - generic [ref=e214]: =
+                    - generic [ref=e215]: =
+                    - generic [ref=e216]: =
+                    - generic [ref=e217]: = =
+                    - generic [ref=e218]: =
+                - text: Laos
+            - listitem [ref=e220]:
+              - generic [ref=e222]:
+                - generic [ref=e223]:
+                  - list [ref=e225]:
+                    - listitem [ref=e226]:
+                      - heading "Retrograde" [level=3] [ref=e227]:
+                        - link "Retrograde" [ref=e228] [cursor=pointer]:
+                          - /url: https://www.kriso.ee/retrograde-db-9781642735130.html?utm_medium=scroller&utm_campaign=ifeatured&id=8jaFw37Z&utm_source=kriso
+                  - list [ref=e230]:
+                    - listitem [ref=e231]:
+                      - generic [ref=e232]: 13,95 €
+                - generic [ref=e233]:
+                  - link "-15% Retrograde" [ref=e235] [cursor=pointer]:
+                    - /url: https://www.kriso.ee/retrograde-db-9781642735130.html?utm_medium=scroller&utm_campaign=ifeatured&id=8jaFw37Z&utm_source=kriso
+                    - text: "-15%"
+                    - img "Retrograde" [ref=e236]
+                  - generic [ref=e239]:
+                    - generic [ref=e240]: =
+                    - generic [ref=e241]: =
+                    - generic [ref=e242]: =
+                    - generic [ref=e243]: =
+                    - generic [ref=e244]: =
+                - text: Laos
+          - list:
+            - listitem [ref=e246]:
+              - link "" [ref=e247] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - generic [ref=e248]: 
+      - list [ref=e253]:
+        - listitem [ref=e254]:
+          - link "-10% The Duke" [ref=e255] [cursor=pointer]:
+            - /url: /duke-db-9781068693441.html?utm_source=kriso&utm_campaign=duke&utm_medium=ibanner&utm_content=9781068693441
+            - text: "-10%"
+            - img "The Duke" [ref=e256]
+        - listitem [ref=e257]:
+          - 'link "-25% Small Comfort: Longlisted for the International Booker Prize 2026" [ref=e258] [cursor=pointer]':
+            - /url: /small-comfort-longlisted-international-booker-prize-db-9781035433940.html?utm_source=kriso&utm_campaign=smallcomfort&utm_medium=ibanner&utm_content=9781035433940
+            - text: "-25%"
+            - 'img "Small Comfort: Longlisted for the International Booker Prize 2026" [ref=e259]'
+      - generic [ref=e260]:
+        - heading "Ingliskeelsed raamatud Vaata kõiki »" [level=2] [ref=e261]:
+          - generic [ref=e262]: Ingliskeelsed raamatud
+          - link "Vaata kõiki »" [ref=e264] [cursor=pointer]:
+            - /url: https://www.kriso.ee/ingliskeelsed-raamatud/english.html?utm_source=kriso&utm_medium=ifp&id=8jaFw37Z&utm_campaign=more
+        - generic [ref=e267]:
+          - list [ref=e268]:
+            - listitem [ref=e269]:
+              - generic [ref=e270]:
+                - 'link "Baltic: The Future of Europe" [ref=e271] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/baltic-future-europe-db-9781399814294.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                  - 'img "Baltic: The Future of Europe" [ref=e272]'
+                - generic [ref=e275]:
+                  - generic [ref=e276]: =
+                  - generic [ref=e277]: =
+                  - generic [ref=e278]: =
+                  - generic [ref=e279]: =
+                  - generic [ref=e280]: = =
+              - 'link "Baltic: The Future of Europe" [ref=e282] [cursor=pointer]':
+                - /url: https://www.kriso.ee/baltic-future-europe-db-9781399814294.html?utm_source=kriso&utm_medium=ifp&id=8jaFw37Z&utm_campaign=more
+                - generic [ref=e283]: "Baltic: The Future of Europe"
+              - generic [ref=e284]: 16,27 € 20,34 €
+            - listitem [ref=e285]:
+              - 'link "What Grows Together: Fail-safe Plant Combinations for Every Garden" [ref=e287] [cursor=pointer]':
+                - /url: https://www.kriso.ee/what-grows-together-fail-safe-plant-db-9780241723074.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                - 'img "What Grows Together: Fail-safe Plant Combinations for Every Garden" [ref=e288]'
+              - 'link "What Grows Together: Fail-safe Plant Combinations for Every Garden" [ref=e291] [cursor=pointer]':
+                - /url: https://www.kriso.ee/what-grows-together-fail-safe-plant-db-9780241723074.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                - generic [ref=e292]: "What Grows Together: Fail-safe Plant Combinations for Every Garden"
+              - generic [ref=e293]: 26,16 € 32,70 €
+            - listitem [ref=e294]:
+              - generic [ref=e295]:
+                - 'link "Machine Knitting Techniques: Cables" [ref=e296] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/machine-knitting-techniques-cables-db-9780719841934.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                  - 'img "Machine Knitting Techniques: Cables" [ref=e297]'
+                - generic [ref=e300]:
+                  - generic [ref=e301]: =
+                  - generic [ref=e302]: =
+                  - generic [ref=e303]: =
+                  - generic [ref=e304]: =
+                  - generic [ref=e305]: =
+              - 'link "Machine Knitting Techniques: Cables" [ref=e307] [cursor=pointer]':
+                - /url: https://www.kriso.ee/machine-knitting-techniques-cables-db-9780719841934.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                - generic [ref=e308]: "Machine Knitting Techniques: Cables"
+              - generic [ref=e309]: 25,94 €
+            - listitem [ref=e311]:
+              - generic [ref=e312]:
+                - 'link "Make It Stick: The Science of Successful Learning Pilot project. eBook available to selected US libraries only" [ref=e313] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/make-it-stick-science-successful-learning-db-9780674729018.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                  - 'img "Make It Stick: The Science of Successful Learning Pilot project. eBook available to selected US libraries only" [ref=e314]'
+                - generic [ref=e317]:
+                  - generic [ref=e318]: =
+                  - generic [ref=e319]: =
+                  - generic [ref=e320]: =
+                  - generic [ref=e321]: =
+                  - generic [ref=e322]: =
+              - 'link "Make It Stick: The Science of Successful Learning Pilot project. ..." [ref=e324] [cursor=pointer]':
+                - /url: https://www.kriso.ee/make-it-stick-science-successful-learning-db-9780674729018.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                - generic [ref=e325]: "Make It Stick: The Science of Successful Learning Pilot project. ..."
+              - generic [ref=e326]: 42,08 €
+            - listitem [ref=e328]:
+              - generic [ref=e329]:
+                - text: Laos
+                - 'link "Game Changer: Now Streaming on Crave and HBO Max First Time Trade" [ref=e330] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/game-changer-now-streaming-crave-hbo-db-9781335534620.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                  - 'img "Game Changer: Now Streaming on Crave and HBO Max First Time Trade" [ref=e331]'
+                - generic [ref=e334]:
+                  - generic [ref=e335]: =
+                  - generic [ref=e336]: =
+                  - generic [ref=e337]: =
+                  - generic [ref=e338]: =
+                  - generic [ref=e339]: =
+              - 'link "Game Changer: Now Streaming on Crave and HBO Max First Time Trade" [ref=e341] [cursor=pointer]':
+                - /url: https://www.kriso.ee/game-changer-now-streaming-crave-hbo-db-9781335534620.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                - generic [ref=e342]: "Game Changer: Now Streaming on Crave and HBO Max First Time Trade"
+              - generic [ref=e343]: 14,46 € 17,64 €
+            - listitem [ref=e344]:
+              - 'link "Murdoku: 80 Murder Mystery Logic Puzzles" [ref=e346] [cursor=pointer]':
+                - /url: https://www.kriso.ee/murdoku-80-murder-mystery-logic-puzzles-db-9781405985451.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                - 'img "Murdoku: 80 Murder Mystery Logic Puzzles" [ref=e347]'
+              - 'link "Murdoku: 80 Murder Mystery Logic Puzzles" [ref=e350] [cursor=pointer]':
+                - /url: https://www.kriso.ee/murdoku-80-murder-mystery-logic-puzzles-db-9781405985451.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                - generic [ref=e351]: "Murdoku: 80 Murder Mystery Logic Puzzles"
+              - generic [ref=e352]: 20,75 € 25,94 €
+            - listitem [ref=e353]:
+              - generic [ref=e354]:
+                - link "Cambridge Guide to Cognitive Behavioural Therapy (CBT)" [ref=e355] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/cambridge-guide-cognitive-behavioural-therapy-cbt-db-9781009088350.html?utm_source=kriso&utm_medium=ifp&id=8jaFw37Z&utm_campaign=more
+                  - img "Cambridge Guide to Cognitive Behavioural Therapy (CBT)" [ref=e356]
+                - generic [ref=e359]:
+                  - generic [ref=e360]: =
+                  - generic [ref=e361]: =
+                  - generic [ref=e362]: =
+                  - generic [ref=e363]: =
+                  - generic [ref=e364]: =
+              - link "Cambridge Guide to Cognitive Behavioural Therapy (CBT)" [ref=e366] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cambridge-guide-cognitive-behavioural-therapy-cbt-db-9781009088350.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                - generic [ref=e367]: Cambridge Guide to Cognitive Behavioural Therapy (CBT)
+              - generic [ref=e368]: 42,70 € 50,24 €
+            - listitem [ref=e369]:
+              - generic [ref=e370]:
+                - 'link "200 Japanese Cross Stitch Designs: Traditional, Geometric, Retro and Floral Patterns for Mindful Stitching" [ref=e371] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/200-japanese-cross-stitch-designs-traditional-db-9781446316047.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                  - 'img "200 Japanese Cross Stitch Designs: Traditional, Geometric, Retro and Floral Patterns for Mindful Stitching" [ref=e372]'
+                - generic [ref=e375]:
+                  - generic [ref=e376]: =
+                  - generic [ref=e377]: =
+                  - generic [ref=e378]: =
+                  - generic [ref=e379]: =
+                  - generic [ref=e380]: =
+              - 'link "200 Japanese Cross Stitch Designs: Traditional, Geometric, Retro and ..." [ref=e382] [cursor=pointer]':
+                - /url: https://www.kriso.ee/200-japanese-cross-stitch-designs-traditional-db-9781446316047.html?utm_source=kriso&utm_medium=ifp&id=8jaFw37Z&utm_campaign=more
+                - generic [ref=e383]: "200 Japanese Cross Stitch Designs: Traditional, Geometric, Retro and ..."
+              - generic [ref=e384]: 20,75 € 25,94 €
+            - listitem [ref=e385]:
+              - generic [ref=e386]:
+                - text: Laos
+                - 'link "Surrounded by Idiots: The Four Types of Human Behaviour and How to Effectively Communicate with Each in Business (and in Life)" [ref=e387] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/surrounded-idiots-types-human-behaviour-how-db-9781785046209.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                  - 'img "Surrounded by Idiots: The Four Types of Human Behaviour and How to Effectively Communicate with Each in Business (and in Life)" [ref=e388]'
+              - 'link "Surrounded by Idiots: The Four Types of Human Behaviour and How to ..." [ref=e391] [cursor=pointer]':
+                - /url: https://www.kriso.ee/surrounded-idiots-types-human-behaviour-how-db-9781785046209.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                - generic [ref=e392]: "Surrounded by Idiots: The Four Types of Human Behaviour and How to ..."
+              - generic [ref=e393]: 14,11 € 17,64 €
+            - listitem [ref=e394]:
+              - generic [ref=e395]:
+                - text: Laos
+                - 'link "Role Model: Now Streaming on Crave and HBO Max First Time Trade" [ref=e396] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/role-model-now-streaming-crave-hbo-db-9781335534613.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                  - 'img "Role Model: Now Streaming on Crave and HBO Max First Time Trade" [ref=e397]'
+                - generic [ref=e400]:
+                  - generic [ref=e401]: =
+                  - generic [ref=e402]: =
+                  - generic [ref=e403]: =
+                  - generic [ref=e404]: =
+                  - generic [ref=e405]: = =
+              - 'link "Role Model: Now Streaming on Crave and HBO Max First Time Trade" [ref=e407] [cursor=pointer]':
+                - /url: https://www.kriso.ee/role-model-now-streaming-crave-hbo-db-9781335534613.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                - generic [ref=e408]: "Role Model: Now Streaming on Crave and HBO Max First Time Trade"
+              - generic [ref=e409]: 14,46 € 17,64 €
+          - list [ref=e413]:
+            - listitem [ref=e414]:
+              - generic [ref=e415]:
+                - text: Laos
+                - 'link "Heated Rivalry: Now Streaming on Crave and HBO Max First Time Trade" [ref=e416] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/heated-rivalry-now-streaming-crave-hbo-db-9781335534637.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                  - 'img "Heated Rivalry: Now Streaming on Crave and HBO Max First Time Trade" [ref=e417]'
+                - generic [ref=e420]:
+                  - generic [ref=e421]: =
+                  - generic [ref=e422]: =
+                  - generic [ref=e423]: =
+                  - generic [ref=e424]: =
+                  - generic [ref=e425]: = =
+              - 'link "Heated Rivalry: Now Streaming on Crave and HBO Max First Time Trade" [ref=e427] [cursor=pointer]':
+                - /url: https://www.kriso.ee/heated-rivalry-now-streaming-crave-hbo-db-9781335534637.html?utm_source=kriso&utm_medium=ifp&id=8jaFw37Z&utm_campaign=more
+              - generic [ref=e428]: 14,46 € 17,64 €
+      - list [ref=e430]:
+        - listitem [ref=e431]:
+          - link "-25% We Are Green and Trembling" [ref=e432] [cursor=pointer]:
+            - /url: /we-green-trembling-db-9781787304765.html?utm_source=kriso&utm_campaign=wegreen&utm_medium=ibanner&utm_content=9781787304765
+            - text: "-25%"
+            - img "We Are Green and Trembling" [ref=e433]
+        - listitem [ref=e434]:
+          - 'link "-10% The Remembered Soldier: Longlisted for the International Booker Prize 2026" [ref=e435] [cursor=pointer]':
+            - /url: /remembered-soldier-longlisted-international-booker-prize-db-9781915590053.html?utm_source=kriso&utm_campaign=rememberedsoldier&utm_medium=ibanner&utm_content=9781915590053
+            - text: "-10%"
+            - 'img "The Remembered Soldier: Longlisted for the International Booker Prize 2026" [ref=e436]'
+      - generic [ref=e437]:
+        - heading "Inglise keele õppematerjalid Vaata kõiki »" [level=2] [ref=e438]:
+          - generic [ref=e439]: Inglise keele õppematerjalid
+          - link "Vaata kõiki »" [ref=e441] [cursor=pointer]:
+            - /url: https://www.kriso.ee/cgi-bin/shop/elt-raamatud
+        - generic [ref=e442]:
+          - list [ref=e444]:
+            - listitem [ref=e445]:
+              - generic [ref=e447]:
+                - list [ref=e450]:
+                  - listitem [ref=e451]:
+                    - 'heading "Sari: New Close-up" [level=3] [ref=e452]':
+                      - 'link "Sari: New Close-up" [ref=e453] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/new-close-up-db-epu14-New_Close-up.html?id=8jaFw37Z
+                  - listitem [ref=e454]: Katherine Stannett, Louisa Essenhigh, Ingrid Wisniewska, Jeremy Day ...
+                - link "New Close-up A2 Elementary Student's Book with Online Practice and Student's eBook New Close-up B1 Student's Book with Online Practice and Student's eBook New Close-up B1+ Student's Book with Online Practice and Student's eBook New Close-up B2 Student's Book with Online Practice and Student's eBook" [ref=e457] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/new-close-up-db-epu14-New_Close-up.html?id=8jaFw37Z
+                  - generic [ref=e459]:
+                    - img "New Close-up A2 Elementary Student's Book with Online Practice and Student's eBook" [ref=e461]
+                    - img "New Close-up B1 Student's Book with Online Practice and Student's eBook" [ref=e463]
+                    - img "New Close-up B1+ Student's Book with Online Practice and Student's eBook" [ref=e465]
+                    - img "New Close-up B2 Student's Book with Online Practice and Student's eBook" [ref=e467]
+            - listitem [ref=e469]:
+              - generic [ref=e471]:
+                - list [ref=e474]:
+                  - listitem [ref=e475]:
+                    - 'heading "Sari: Our World 2nd Edition British English" [level=3] [ref=e476]':
+                      - 'link "Sari: Our World 2nd Edition British English" [ref=e477] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/our-world-2nd-edition-british-english-db-epu14-Our_World_2e_Brit_Eng.html?id=8jaFw37Z
+                  - listitem [ref=e478]: Diane Pinkley, JoAnn (Jodi) Crandall, Susan Rivers, Joan Kang Shin, Rob Sved, Kate Cory-Wright, Kaj Schwermer, Sue Harmes, Lesley Koustaff, Gabrielle Pritchard... ...
+                - link "Our World 2e BrE Starter Student's Book Our World 2e BrE Level 1 Student's Book Our World 2e BrE Level 2 Student's Book Our World 2e BrE Level 3 Student's Book" [ref=e481] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/our-world-2nd-edition-british-english-db-epu14-Our_World_2e_Brit_Eng.html?id=8jaFw37Z
+                  - generic [ref=e483]:
+                    - img "Our World 2e BrE Starter Student's Book" [ref=e485]
+                    - img "Our World 2e BrE Level 1 Student's Book" [ref=e487]
+                    - img "Our World 2e BrE Level 2 Student's Book" [ref=e489]
+                    - img "Our World 2e BrE Level 3 Student's Book" [ref=e491]
+            - listitem [ref=e493]:
+              - generic [ref=e495]:
+                - list [ref=e498]:
+                  - listitem [ref=e499]:
+                    - 'heading "Sari: Complete Advanced Third edition" [level=3] [ref=e500]':
+                      - 'link "Sari: Complete Advanced Third edition" [ref=e501] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/complete-advanced-third-edition-db-epu20-Complete_Advanced_Third_edition.html?id=8jaFw37Z
+                - link "Complete Advanced Student's Book without Answers with Digital Pack Complete Advanced Workbook with Answers with eBook Complete Advanced Workbook without Answers with eBook" [ref=e504] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/complete-advanced-third-edition-db-epu20-Complete_Advanced_Third_edition.html?id=8jaFw37Z
+                  - generic [ref=e506]:
+                    - img "Complete Advanced Student's Book without Answers with Digital Pack" [ref=e508]
+                    - img "Complete Advanced Workbook with Answers with eBook" [ref=e510]
+                    - img "Complete Advanced Workbook without Answers with eBook" [ref=e512]
+            - listitem [ref=e514]:
+              - generic [ref=e516]:
+                - list [ref=e519]:
+                  - listitem [ref=e520]:
+                    - 'heading "Sari: Kid''s Box New Generation" [level=3] [ref=e521]':
+                      - 'link "Sari: Kid''s Box New Generation" [ref=e522] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/kids-box-new-generation-db-epu20-Kids_Box_New_Generation.html?id=8jaFw37Z
+                - link "Kid's Box New Generation Starter Class Book with Digital Pack Kid's Box New Generation Level 1 Pupil's Book with eBook Kid's Box New Generation Level 3 Pupil's Book with eBook Kid's Box New Generation Level 4 Activity Book with Digital Pack" [ref=e525] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/kids-box-new-generation-db-epu20-Kids_Box_New_Generation.html?id=8jaFw37Z
+                  - generic [ref=e527]:
+                    - img "Kid's Box New Generation Starter Class Book with Digital Pack" [ref=e529]
+                    - img "Kid's Box New Generation Level 1 Pupil's Book with eBook" [ref=e531]
+                    - img "Kid's Box New Generation Level 3 Pupil's Book with eBook" [ref=e533]
+                    - img "Kid's Box New Generation Level 4 Activity Book with Digital Pack" [ref=e535]
+            - listitem [ref=e537]:
+              - generic [ref=e539]:
+                - list [ref=e542]:
+                  - listitem [ref=e543]:
+                    - 'heading "Sari: On Point" [level=3] [ref=e544]':
+                      - 'link "Sari: On Point" [ref=e545] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/point-db-epu3989-Beginners_course_On_Point.html?id=8jaFw37Z
+                  - listitem [ref=e546]: Cathy Rogers, Louis Rogers ...
+                - link "On point A1 Student's Book On point A2 Student's Book On point B1 Student's Book On point B1+ Student's Book" [ref=e549] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/point-db-epu3989-Beginners_course_On_Point.html?id=8jaFw37Z
+                  - generic [ref=e551]:
+                    - img "On point A1 Student's Book" [ref=e553]
+                    - img "On point A2 Student's Book" [ref=e555]
+                    - img "On point B1 Student's Book" [ref=e557]
+                    - img "On point B1+ Student's Book" [ref=e559]
+            - listitem [ref=e561]:
+              - generic [ref=e563]:
+                - list [ref=e566]:
+                  - listitem [ref=e567]:
+                    - 'heading "Sari: INSIGHT 2E" [level=3] [ref=e568]':
+                      - 'link "Sari: INSIGHT 2E" [ref=e569] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/insight-2e-db-epu11-INSIGHT_2E.html?id=8jaFw37Z
+                  - listitem [ref=e570]: Fiona Beddall, Jayne Wildman ...
+                - 'link "Insight: Elementary: Student Digital Pack: 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources 2nd Revised Edition Insight: Pre-intermediate: Student Book With Digital Pack: Print Student Book And 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources 2nd Revised Edition Insight: Intermediate: Student Digital Pack: 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources 2nd Revised Edition" [ref=e573] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/insight-2e-db-epu11-INSIGHT_2E.html?id=8jaFw37Z
+                  - generic [ref=e575]:
+                    - 'img "Insight: Elementary: Student Digital Pack: 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources 2nd Revised Edition" [ref=e577]'
+                    - 'img "Insight: Pre-intermediate: Student Book With Digital Pack: Print Student Book And 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources 2nd Revised Edition" [ref=e579]'
+                    - 'img "Insight: Intermediate: Student Digital Pack: 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources 2nd Revised Edition" [ref=e581]'
+            - listitem [ref=e583]:
+              - generic [ref=e585]:
+                - list [ref=e588]:
+                  - listitem [ref=e589]:
+                    - 'heading "Sari: BEEHIVE" [level=3] [ref=e590]':
+                      - 'link "Sari: BEEHIVE" [ref=e591] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/beehive-db-epu11-BEEHIVE.html?id=8jaFw37Z
+                  - listitem [ref=e592]: Cheryl Palin, Helen Casey, Setsuko Toyama, Tamzin Thompson, Kathleen Kampa, Charles Vilina, Michelle Mahony, Joanna Ross, Diana Anyakwo ...
+                - 'link "Beehive: Starter Level: Student Book With Online Practice: Print Student Book And 2 Years'' Access To Online Practice And Student Resources Beehive: Level 1: Student Book With Digital Pack: Print Student Book And 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources Beehive: Level 2: Student Book With Digital Pack: Print Student Book And 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources Beehive: Level 3: Student Book With Digital Pack: Print Student Book And 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources" [ref=e595] [cursor=pointer]':
+                  - /url: https://www.kriso.ee/beehive-db-epu11-BEEHIVE.html?id=8jaFw37Z
+                  - generic [ref=e597]:
+                    - 'img "Beehive: Starter Level: Student Book With Online Practice: Print Student Book And 2 Years'' Access To Online Practice And Student Resources" [ref=e599]'
+                    - 'img "Beehive: Level 1: Student Book With Digital Pack: Print Student Book And 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources" [ref=e601]'
+                    - 'img "Beehive: Level 2: Student Book With Digital Pack: Print Student Book And 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources" [ref=e603]'
+                    - 'img "Beehive: Level 3: Student Book With Digital Pack: Print Student Book And 2 Years'' Access To Student E-book, Workbook E-book, Online Practice And Student Resources" [ref=e605]'
+            - listitem [ref=e607]:
+              - generic [ref=e609]:
+                - list [ref=e612]:
+                  - listitem [ref=e613]:
+                    - 'heading "Sari: Focus 2ed" [level=3] [ref=e614]':
+                      - 'link "Sari: Focus 2ed" [ref=e615] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/focus-2ed-db-epu1694-Focus_2e.html?id=8jaFw37Z
+                  - listitem [ref=e616]: Sue Kay, Bartosz Michalowski, Tomasz Siuta, Vaughan Jones, Izabela Michalak, Dean Russell, Daniel Brayshaw, Stuart McKinlay, Angela Bandis, Marta Inglot... ...
+                - link "Focus (2nd Edition) Level 1 Workbook Focus (2nd Edition) Level 2 Workbook Focus (2nd Edition) Level 3 Workbook Focus (2nd Edition) Level 4 Workbook" [ref=e619] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/focus-2ed-db-epu1694-Focus_2e.html?id=8jaFw37Z
+                  - generic [ref=e621]:
+                    - img "Focus (2nd Edition) Level 1 Workbook" [ref=e623]
+                    - img "Focus (2nd Edition) Level 2 Workbook" [ref=e625]
+                    - img "Focus (2nd Edition) Level 3 Workbook" [ref=e627]
+                    - img "Focus (2nd Edition) Level 4 Workbook" [ref=e629]
+            - listitem [ref=e631]:
+              - generic [ref=e633]:
+                - list [ref=e636]:
+                  - listitem [ref=e637]:
+                    - 'heading "Sari: Gateway to the World" [level=3] [ref=e638]':
+                      - 'link "Sari: Gateway to the World" [ref=e639] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/gateway-world-db-epu17-GATEWAY_to_the_World.html?id=8jaFw37Z
+                  - listitem [ref=e640]: D. Spencer, A. Langton, A. Bandis, M. Toth ...
+                - link "Gateway to the World A1+ Student's Book with Student's App and Digital Student's Book Gateway to the World A2 Student's Book with Student's App and Digital Student's Book Gateway to the World B1 Student's Book with Student's App and Digital Student's Book Gateway to the World B1+ Student's Book with Student's App and Digital Student's Book" [ref=e643] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/gateway-world-db-epu17-GATEWAY_to_the_World.html?id=8jaFw37Z
+                  - generic [ref=e645]:
+                    - img "Gateway to the World A1+ Student's Book with Student's App and Digital Student's Book" [ref=e647]
+                    - img "Gateway to the World A2 Student's Book with Student's App and Digital Student's Book" [ref=e649]
+                    - img "Gateway to the World B1 Student's Book with Student's App and Digital Student's Book" [ref=e651]
+                    - img "Gateway to the World B1+ Student's Book with Student's App and Digital Student's Book" [ref=e653]
+            - listitem [ref=e655]:
+              - generic [ref=e657]:
+                - list [ref=e660]:
+                  - listitem [ref=e661]:
+                    - 'heading "Sari: Open World Preliminary" [level=3] [ref=e662]':
+                      - 'link "Sari: Open World Preliminary" [ref=e663] [cursor=pointer]':
+                        - /url: https://www.kriso.ee/open-world-preliminary-db-epu20-Open_World_Preliminary.html?id=8jaFw37Z
+                  - listitem [ref=e664]: Sarah Dymond, S Humphreys, Sheila Dignen, Kingsley, S Dignen ...
+                - link "Open World Preliminary Workbook without Answers with Audio Download Open World Preliminary Teacher's Book with Downloadable Resource Pack Open World Preliminary Self-Study Pack (Student's Book with Answers, Online Practice, Workbook with Answers & Audio Download & Class Audio)" [ref=e667] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/open-world-preliminary-db-epu20-Open_World_Preliminary.html?id=8jaFw37Z
+                  - generic [ref=e669]:
+                    - img "Open World Preliminary Workbook without Answers with Audio Download" [ref=e671]
+                    - img "Open World Preliminary Teacher's Book with Downloadable Resource Pack" [ref=e673]
+                    - img "Open World Preliminary Self-Study Pack (Student's Book with Answers, Online Practice, Workbook with Answers & Audio Download & Class Audio)" [ref=e675]
+            - listitem [ref=e677]:
+              - link "Vaata kõiki »" [ref=e680] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/elt-raamatud
+          - list:
+            - listitem [ref=e681]:
+              - link "" [ref=e682] [cursor=pointer]:
+                - /url: javascript:void(0);
+                - generic [ref=e683]: 
+      - generic [ref=e687]:
+        - heading "Eestikeelsed raamatud Vaata kõiki »" [level=2] [ref=e688]:
+          - generic [ref=e689]: Eestikeelsed raamatud
+          - link "Vaata kõiki »" [ref=e691] [cursor=pointer]:
+            - /url: https://www.kriso.ee/raamatud?utm_source=kriso&utm_campaign=more&utm_medium=ifp
+        - generic [ref=e694]:
+          - list [ref=e695]:
+            - listitem [ref=e696]:
+              - 'link "Baeri laulud: Värss-brelokk-romaan. vampiirid marionetid küürakad ahvid muusikandid inimesesööjad hiina naised saabastatud kassid pott-viied arlekiinidning tegevuskohaks lahtine tiigri kõrisee ta onarmas Tartu linn oma professorite ja muu sellisegaüles tä" [ref=e698] [cursor=pointer]':
+                - /url: https://www.kriso.ee/baeri-laulud-varss-brelokk-romaan-vampiirid-db-9789916971949.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                - 'img "Baeri laulud: Värss-brelokk-romaan. vampiirid marionetid küürakad ahvid muusikandid inimesesööjad hiina naised saabastatud kassid pott-viied arlekiinidning tegevuskohaks lahtine tiigri kõrisee ta onarmas Tartu linn oma professorite ja muu sellisegaüles tä" [ref=e699]'
+              - 'link "Baeri laulud: Värss-brelokk-romaan. vampiirid marionetid küürakad ..." [ref=e702] [cursor=pointer]':
+                - /url: https://www.kriso.ee/baeri-laulud-varss-brelokk-romaan-vampiirid-db-9789916971949.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                - generic [ref=e703]: "Baeri laulud: Värss-brelokk-romaan. vampiirid marionetid küürakad ..."
+              - generic [ref=e704]: 19,92 €
+            - listitem [ref=e706]:
+              - link "RINGIDE KUJUNDAMINE.PUU JA NELI LINDU.RÄNNAKUTE TULEMUSTE AVALIKUKS TEGEMINE" [ref=e708] [cursor=pointer]:
+                - /url: https://www.kriso.ee/ringide-kujundaminepuu-ja-neli-lindurannakute-tulemuste-db-9789985778357.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                - img "RINGIDE KUJUNDAMINE.PUU JA NELI LINDU.RÄNNAKUTE TULEMUSTE AVALIKUKS TEGEMINE" [ref=e709]
+              - link "RINGIDE KUJUNDAMINE.PUU JA NELI LINDU.RÄNNAKUTE TULEMUSTE AVALIKUKS ..." [ref=e712] [cursor=pointer]:
+                - /url: https://www.kriso.ee/ringide-kujundaminepuu-ja-neli-lindurannakute-tulemuste-db-9789985778357.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                - generic [ref=e713]: RINGIDE KUJUNDAMINE.PUU JA NELI LINDU.RÄNNAKUTE TULEMUSTE AVALIKUKS ...
+              - generic [ref=e714]: 19,18 €
+            - listitem [ref=e716]:
+              - generic [ref=e717]:
+                - link "451° Fahrenheiti" [ref=e718] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/451%25b0-fahrenheiti-db-9789949673858.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                  - img "451° Fahrenheiti" [ref=e719]
+                - generic [ref=e722]:
+                  - generic [ref=e723]: =
+                  - generic [ref=e724]: =
+                  - generic [ref=e725]: =
+                  - generic [ref=e726]: =
+                  - generic [ref=e727]: =
+              - link "451° Fahrenheiti" [ref=e729] [cursor=pointer]:
+                - /url: https://www.kriso.ee/451%25b0-fahrenheiti-db-9789949673858.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                - generic [ref=e730]: 451° Fahrenheiti
+              - generic [ref=e731]: 21,49 €
+            - listitem [ref=e733]:
+              - link "Peegli taga" [ref=e735] [cursor=pointer]:
+                - /url: https://www.kriso.ee/peegli-taga-db-9789985057292.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                - img "Peegli taga" [ref=e736]
+              - link "Peegli taga" [ref=e739] [cursor=pointer]:
+                - /url: https://www.kriso.ee/peegli-taga-db-9789985057292.html?utm_source=kriso&utm_medium=ifp&id=8jaFw37Z&utm_campaign=more
+                - generic [ref=e740]: Peegli taga
+              - generic [ref=e741]: 19,76 €
+            - listitem [ref=e743]:
+              - link "Ristisõjad" [ref=e745] [cursor=pointer]:
+                - /url: https://www.kriso.ee/ristisojad-db-9789916750995.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                - img "Ristisõjad" [ref=e746]
+              - link "Ristisõjad" [ref=e749] [cursor=pointer]:
+                - /url: https://www.kriso.ee/ristisojad-db-9789916750995.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                - generic [ref=e750]: Ristisõjad
+              - generic [ref=e751]: 23,88 €
+            - listitem [ref=e753]:
+              - link "Mariupol. Linn, mida enam ei ole." [ref=e755] [cursor=pointer]:
+                - /url: https://www.kriso.ee/mariupol-linn-mida-enam-ei-ole-db-9789916418543.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                - img "Mariupol. Linn, mida enam ei ole." [ref=e756]
+              - link "Mariupol. Linn, mida enam ei ole." [ref=e759] [cursor=pointer]:
+                - /url: https://www.kriso.ee/mariupol-linn-mida-enam-ei-ole-db-9789916418543.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                - generic [ref=e760]: Mariupol. Linn, mida enam ei ole.
+              - generic [ref=e761]: 18,60 €
+            - listitem [ref=e763]:
+              - generic [ref=e764]:
+                - text: Laos
+                - link "Mõttemustrid" [ref=e765] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/mottemustrid-db-9789908580050.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                  - img "Mõttemustrid" [ref=e766]
+              - link "Mõttemustrid" [ref=e769] [cursor=pointer]:
+                - /url: https://www.kriso.ee/mottemustrid-db-9789908580050.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                - generic [ref=e770]: Mõttemustrid
+              - generic [ref=e771]: 28,80 €
+            - listitem [ref=e773]:
+              - link "Seletamine ja mõistmine. Põhjuslikkus ja determinism" [ref=e775] [cursor=pointer]:
+                - /url: https://www.kriso.ee/seletamine-ja-moistmine-pohjuslikkus-ja-determinism-db-9789916275375.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                - img "Seletamine ja mõistmine. Põhjuslikkus ja determinism" [ref=e776]
+              - link "Seletamine ja mõistmine. Põhjuslikkus ja determinism" [ref=e779] [cursor=pointer]:
+                - /url: https://www.kriso.ee/seletamine-ja-moistmine-pohjuslikkus-ja-determinism-db-9789916275375.html?utm_source=kriso&utm_medium=ifp&id=8jaFw37Z&utm_campaign=more
+                - generic [ref=e780]: Seletamine ja mõistmine. Põhjuslikkus ja determinism
+              - generic [ref=e781]: 32,53 €
+            - listitem [ref=e783]:
+              - generic [ref=e784]:
+                - text: Laos
+                - link "Hortus poeticus. Valimik eesti taimeluulet Urve Sinijärv ja Karl Martin Sinijärv" [ref=e785] [cursor=pointer]:
+                  - /url: https://www.kriso.ee/hortus-poeticus-valimik-eesti-taimeluulet-urve-db-9789985364444.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+                  - img "Hortus poeticus. Valimik eesti taimeluulet Urve Sinijärv ja Karl Martin Sinijärv" [ref=e786]
+              - link "Hortus poeticus. Valimik eesti taimeluulet Urve Sinijärv ja Karl ..." [ref=e789] [cursor=pointer]:
+                - /url: https://www.kriso.ee/hortus-poeticus-valimik-eesti-taimeluulet-urve-db-9789985364444.html?utm_source=kriso&utm_medium=ifp&id=8jaFw37Z&utm_campaign=more
+                - generic [ref=e790]: Hortus poeticus. Valimik eesti taimeluulet Urve Sinijärv ja Karl ...
+              - generic [ref=e791]: 34,35 €
+            - listitem [ref=e793]:
+              - link "Teraapia" [ref=e795] [cursor=pointer]:
+                - /url: https://www.kriso.ee/teraapia-db-9789916178058.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                - img "Teraapia" [ref=e796]
+              - link "Teraapia" [ref=e799] [cursor=pointer]:
+                - /url: https://www.kriso.ee/teraapia-db-9789916178058.html?utm_medium=ifp&utm_campaign=more&id=8jaFw37Z&utm_source=kriso
+                - generic [ref=e800]: Teraapia
+              - generic [ref=e801]: 35,58 €
+          - list [ref=e806]:
+            - listitem [ref=e807]:
+              - link "Teraapia" [ref=e809] [cursor=pointer]:
+                - /url: https://www.kriso.ee/teraapia-db-9789916178058.html?id=8jaFw37Z&utm_campaign=more&utm_medium=ifp&utm_source=kriso
+                - img "Teraapia" [ref=e810]
+              - link "Teraapia" [ref=e813] [cursor=pointer]:
+                - /url: https://www.kriso.ee/teraapia-db-9789916178058.html?utm_source=kriso&utm_campaign=more&id=8jaFw37Z&utm_medium=ifp
+              - generic [ref=e814]: 35,58 €
+      - generic [ref=e824]:
+        - generic [ref=e825]:
+          - textbox "e-posti aadress" [ref=e827]
+          - link "Liitu" [ref=e828] [cursor=pointer]:
+            - /url: javascript:void(0);
+          - link "Tutvu e-poe privaatsustingimustega" [ref=e830] [cursor=pointer]:
+            - /url: https://www.kriso.ee/cgi-bin/shop/privacy.html?id=8jaFw37Z
+        - generic [ref=e832]: Kui soovid saada personaalseid pakkumisi või lihtsalt raamatute maailmas silmaringi laiendada, siis liitu meie uudiskirjaga
+    - contentinfo [ref=e834]:
+      - generic [ref=e835]:
+        - generic [ref=e836]:
+          - heading "d Tasuta saatmine Omniva kulleriga ja pakiautomaati, SmartPost" [level=4] [ref=e838]:
+            - text: d Tasuta saatmine
+            - generic [ref=e839]: Omniva kulleriga ja pakiautomaati, SmartPost
+          - heading "a Üle 10 miljoni raamatu Valik erialakirjandust kohe laos" [level=4] [ref=e841]:
+            - text: a Üle 10 miljoni raamatu
+            - generic [ref=e842]: Valik erialakirjandust kohe laos
+          - heading "b Suur e-raamatute valik Säästa aega ja loodust, kiire, mugav" [level=4] [ref=e844]:
+            - text: b Suur e-raamatute valik
+            - generic [ref=e845]: Säästa aega ja loodust, kiire, mugav
+        - generic [ref=e846]:
+          - list [ref=e848]:
+            - listitem [ref=e849]: Firmast
+            - listitem [ref=e850]:
+              - link "Firmast lähemalt" [ref=e851] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/aboutus.html?id=8jaFw37Z
+            - listitem [ref=e852]:
+              - link "Kontakt" [ref=e853] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/contact.html?id=8jaFw37Z
+          - list [ref=e855]:
+            - listitem [ref=e856]: E-tooted
+            - listitem [ref=e857]:
+              - link "E-kinkekaardid" [ref=e858] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/giftcertslist.html?id=8jaFw37Z
+            - listitem [ref=e859]:
+              - link "E-lugerid" [ref=e860] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/ebookreaders.html?id=8jaFw37Z
+          - list [ref=e862]:
+            - listitem [ref=e863]: Raamatukogudele
+            - listitem [ref=e864]:
+              - link "E-platvormid" [ref=e865] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/e-platvormid
+            - listitem [ref=e866]:
+              - link "Ebook Central e-raamatute platvorm" [ref=e867] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/ebl-e-raamatute-platvorm
+          - list [ref=e869]:
+            - listitem [ref=e870]: Kasutajatugi
+            - listitem [ref=e871]:
+              - link "E-raamatute abiinfo" [ref=e872] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/e-raamatute-abiinfo
+            - listitem [ref=e873]:
+              - link "KKK" [ref=e874] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/korduma-kippuvad-kusimused
+            - listitem [ref=e875]:
+              - link "Kasutajatugi, abi ja info" [ref=e876] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/kasutajatugi-abi-ja-info
+          - list [ref=e878]:
+            - listitem [ref=e879]: Jälgi meie tegevusi
+            - listitem [ref=e880]:
+              - link "F" [ref=e881] [cursor=pointer]:
+                - /url: https://www.facebook.com/Krisostomuse-raamatupood-82241144309/
+                - generic [ref=e882]: F
+            - listitem [ref=e883]:
+              - link "Y" [ref=e884] [cursor=pointer]:
+                - /url: https://www.youtube.com/channel/UCvN_IUz4IeVBUcNNJBVcZ8Q
+                - generic [ref=e885]: "Y"
+            - listitem
+        - generic [ref=e886]:
+          - list [ref=e887]:
+            - listitem [ref=e888]:
+              - link "Kasutustingimused" [ref=e889] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/usage.html?id=8jaFw37Z
+            - listitem [ref=e890]:
+              - link "Privaatsustingimused" [ref=e891] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/privacy.html?id=8jaFw37Z
+            - listitem [ref=e892]:
+              - link "Küpsiste kasutamine" [ref=e893] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/cookies.html?id=8jaFw37Z
+            - listitem [ref=e894]:
+              - link "KKK" [ref=e895] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/korduma-kippuvad-kusimused
+            - listitem [ref=e896]:
+              - link "Kontakt" [ref=e897] [cursor=pointer]:
+                - /url: https://www.kriso.ee/cgi-bin/shop/contact.html?id=8jaFw37Z
+          - generic [ref=e898]:
+            - text: "Copyright © Raamatukauplus Krisostomus (online raamatupood), Raekoja plats 11, 51004 Tartu, Tel. 7440010, E-mail:"
+            - link "kriso@kriso.ee" [ref=e899] [cursor=pointer]:
+              - /url: mailto:kriso@kriso.ee
+    - text:  K 
+  - text: P    X      6 7   P       I    O N 
+  - log [ref=e900]
+```
